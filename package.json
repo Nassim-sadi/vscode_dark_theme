@@ -1,8 +1,12 @@
 {
-  "name": "dark-comfort-theme",
-  "displayName": "dark comfort theme",
+  "name": "Comfort-Dark-theme",
+  "displayName": "Comfort Dark Theme",
   "description": "a dark theme for a comfortable coding :)",
-  "version": "0.0.1",
+  "publisher": "NassimSadi",
+  "version": "0.0.2",
+  "repository": {
+    "url": "https://github.com/Nassim-sadi/vscode_dark_theme"
+  },
   "engines": {
     "vscode": "^1.70.0"
   },
@@ -12,7 +16,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "dark comfort theme",
+        "label": "Comfort Dark Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/dark comfort theme-color-theme.json"
       }
